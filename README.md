@@ -111,6 +111,7 @@ Four were resolved in code. The rest are inherent to the statute.
 - [s(CASP) on SWI-Prolog](https://github.com/SWI-Prolog/sCASP) — goal-directed answer set programming with constraints
 - [SWI-Prolog](https://www.swi-prolog.org/) — host runtime
 - [Eepos — Kela's social security system programme](https://www.kela.fi/eepos)
+- [OpenFisca](https://openfisca.org/) — open-source rules-as-code engine for modelling tax and benefit systems
 - [Yle: Pian kone päättää suuresta osasta Kelan tukia](https://yle.fi/a/74-20211538) — Kela's plan to automate 80% of benefit decisions using Salesforce/PwC (589M EUR)
 
 ## License
