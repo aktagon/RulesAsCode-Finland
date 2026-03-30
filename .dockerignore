@@ -1,0 +1,6 @@
+.git
+.claude
+prompts
+*.md
+Makefile
+Dockerfile
