@@ -105,6 +105,10 @@ Encoding law as formal logic exposes where the statute resists computation. Sect
 
 Four were resolved in code. The rest are inherent to the statute.
 
+## Beyond §6
+
+The method is not specific to this statute or to Finnish law. Open-world logic, every clause traced to source, and justification in the regulated party's language apply to any rule-dense domain: clinical guidelines, tax codes, MDR/IVDR requirements, internal compliance policies.
+
 ## References
 
 - [Työttömyysturvalaki 1290/2002 §6](https://www.finlex.fi/fi/laki/ajantasa/2002/20021290#L1P6) — source law (Finlex)
